@@ -1,2 +1,2 @@
 # 3SIS-ProjetoGitHub
-# exercico de uso do github, uso da main
+# exercico de uso do github
